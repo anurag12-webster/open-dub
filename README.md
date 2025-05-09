@@ -1,5 +1,3 @@
-# open-dub  
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/25907b21-125f-4fc1-a476-fd9c50ba81f1" alt="open-dub" width="200"/>
 </div>
